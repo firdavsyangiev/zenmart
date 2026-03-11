@@ -512,3 +512,32 @@ p {
   line-height: 40px;
   color: rgba(4, 30, 66, 1);
 }
+
+/* PAGE ROOTER */
+
+.page_rooter {
+  margin: 20px 0;
+  width: 1320px;
+}
+
+.page_rooter span {
+  font-family: var(--font);
+  font-style: Regular;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 22px;
+  color: rgba(4, 30, 66, 1);
+}
+
+.page_rooter span.drop {
+  margin: 0 10px;
+}
+
+.page_rooter span.active {
+  font-family: var(--font);
+  font-style: Regular;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 22px;
+  color: rgba(98, 105, 116, 1);
+}
